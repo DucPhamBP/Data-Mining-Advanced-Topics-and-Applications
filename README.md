@@ -1,1 +1,1 @@
-# Data-Mining---Advanced-Topics-and-Applications
+# Data-Mining-Advanced-Topics-and-Applications
