@@ -1,6 +1,6 @@
 # Data-Mining-Advanced-Topics-and-Applications
 
-Project for the **Data Mining 2** course at the **University of Pisa**. It consists of analyzing and processing **time series data**, employing advanced data mining and machine learning algorithms on the **Sportify dataset**.
+Project for the **Data Mining 2** course. It consists of analyzing and processing **time series data**, employing advanced data mining and machine learning algorithms on the **Sportify dataset**.
 
 ## Focus Areas
 
